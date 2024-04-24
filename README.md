@@ -5,7 +5,7 @@ Created with a clean-room design
 [![CMake](https://github.com/ousnius/nifly/actions/workflows/cmake.yml/badge.svg)](https://github.com/ousnius/nifly/actions/workflows/cmake.yml)
 
 ### Features
-- Reading and writing NIF files (NetImmerse, Gamebryo, Creation Engine)
+- Reading and writing NIF files (NetImmerse, Gamebryo, Creation Engine).
 - Cross platform (Windows, Linux, macOS)
 - No external dependencies (tests optional)
 - Includes basic functionality often used for 3D meshes
