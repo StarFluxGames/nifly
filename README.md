@@ -1,6 +1,6 @@
 # nifly
 C++ NIF library for the NetImmerse File Format (NetImmerse, Gamebryo, Creation Engine).  
-Created with a clean-room design.
+Created with a clean-room design
 
 [![CMake](https://github.com/ousnius/nifly/actions/workflows/cmake.yml/badge.svg)](https://github.com/ousnius/nifly/actions/workflows/cmake.yml)
 
